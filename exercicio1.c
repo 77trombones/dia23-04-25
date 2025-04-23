@@ -13,4 +13,7 @@ printf("vetor[0] = %f.\n" , n[0]);
 printf("vetor[1] = %f.\n" , n[1]);
 printf("vetor[2] = %f.\n" , n[2]);
 printf("vetor[3] = %f.\n" , n[3]);
-printf("vetor[4] = %f.\n" , n[4]);}
+printf("vetor[4] = %f.\n" , n[4]);
+
+return 0;
+}
